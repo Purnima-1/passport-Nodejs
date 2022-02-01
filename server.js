@@ -85,3 +85,4 @@ function checkNotAuthenticated(req, res, next) {
 }
 
 app.listen(3000)
+//app listening at 3000
